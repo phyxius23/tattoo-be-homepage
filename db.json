@@ -1,219 +1,219 @@
 {
-  "homePage": {
-    "coverSection": {
-      "title": "Inkae Tattoo \nI tuoi tatuatori a Venezia",
-      "subtitle":"Siamo specializzati in \"traditional tattoo\" e \"blackwork\" ma eseguiamo qualunque tipo di tatuaggio. Dai sfogo alla tua fantasia!",
-      "link": {
-        "href": "/contatti",
-        "alt": "Contattaci per saperne di più",
-        "text": "Contattaci per saperne di più"
-      },
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/z6p8jeemhzd3pppqe78m.webp",
-        "alt": "",
-        "height": "",
-        "width": "",
-        "title": ""
-      }
-    },
-    "studioSection": {
-      "title": "Lo studio",
-      "image": null,
-      "mediaText": [
-        {
-          "id": 1,
-          "addClass": "",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/r3lunaqfqowhamr6437g.webp",
-            "alt": "",
-            "height": "440",
-            "width": "720",
-            "title": ""
-          },
-          "title": "Il nostro rifugio nel cuore della città",
-          "paragraphs": [
-            {
-              "id": 1,
-              "text": "Inkae Tattoo nasce nell’ottobre 2020 da un’idea di Tommy Grossi, che trasforma la sua passione per il disegno in un’attività, realizzando un piccolo gioiello di 50mq incastonato tra le calli veneziane."
-            },
-            {
-              "id": 2,
-              "text": "Un ambiente vintage dai colori caldi, il grammofono che suona, la cordialità dello staff, rendono piacevole anche solo la permanenza in sala d’attesa."
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "addClass": "",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/home/ykw1ok38e1yz9hvkmalt.webp",
-            "alt": "",
-            "height": "440",
-            "width": "720",
-            "title": ""
-          },
-          "title": "Comfort e pulizia",
-          "paragraphs": [
-            {
-              "id": 1,
-              "text": "Nello studio non mancano cortesia e professionalità, ma soprattutto tutte le condizioni igienico sanitarie necessarie."
-            },
-            {
-              "id": 2,
-              "text": "Il nostro staff è autorizzato USSL per l’esercizio e rispetta tutte le norme previste dalla legge regionale “Disposizioni relative alle attività di tatuaggio e piercing” n. 11 del 2013."
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "addClass": "",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/home/arefyiichti0ynhtyooi.webp",
-            "alt": "",
-            "height": "440",
-            "width": "720",
-            "title": ""
-          },
-          "title": "Prodotti di qualità",
-          "paragraphs": [
-            {
-              "id": 1,
-              "text": "Vengono utilizzati esclusivamente aghi sterili e monouso scartati esclusivamente davanti al cliente."
-            },
-            {
-              "id": 2,
-              "text": "I colori sono atossici, sterili e certificati."
-            }
-          ]
-        }
-      ]
-    },
-    "crewSection": {
-      "title": "La nostra crew",
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
-        "alt": "",
-        "height": "891",
-        "width": "1440",
-        "title": ""
-      },
-      "artists": [
-        {
-          "id": "1",
-          "title": "Tommy Grossi",
-          "description": "Traditional tattoo",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        },
-        {
-          "id": "2",
-          "title": "Aura Negativa",
-          "description": "Blackwork",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        },
-        {
-          "id": "3",
-          "title": "Tobias Paties",
-          "description": "Traditional tattoo",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        }
-      ]
-    },
-    "worksSection": {
-      "title": "I nostri lavori",
-      "images": [
-        {
-          "id": 1,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/n47s6t5ysckvwkqzpmwj.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Aura Negativa",
-          "title": "Testo che descrive il tatuaggio 1"
-        },
-        {
-          "id": 2,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/t55bk2l7tamu4gixfdod.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Aura Negativa",
-          "title": "Testo che descrive il tatuaggio 2"
-        },
-        {
-          "id": 3,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/yeeo5jbr1itirctkzr0i.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Aura Negativa",
-          "title": "Testo che descrive il tatuaggio 3"
-        },
-        {
-          "id": 4,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/tommy-grossi/tattoos/wrlsg1jc6pakzholk8wn.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 4"
-        },
-        {
-          "id": 5,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 5"
-        },
-        {
-          "id": 6,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
-          "height": "700",
-          "width": "525",
-          "alt": "Tattoo by Tommy Grossi",
-          "title": "Testo che descrive il tatuaggio 6"
-        }
-      ]
-    },
-    "piercingSection": {
-      "title": "Piercing",
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
-        "alt": "",
-        "height": "500",
-        "width": "1440",
-        "title": ""
-      },
-      "description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
-      "link": {
-        "href": "/piercing",
-        "alt": "Scopri i nostri servizi",
-        "text": "Scopri i nostri servizi"
-      }
-    },
-    "contactSection": {
-      "title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
-      "image": null,
-      "description": null,
-      "link": {
-        "href": "/contatti",
-        "alt": "Contattaci per saperne di più",
-        "text": "Contattaci per saperne di più"
-      }
-    }
-  }
+	"homePage": {
+		"coverSection": {
+			"title": "Inkae Tattoo <br>I tuoi tatuatori a Venezia",
+			"subtitle": "Siamo specializzati in \"traditional tattoo\" e \"blackwork\" ma eseguiamo qualunque tipo di tatuaggio. Dai sfogo alla tua fantasia!",
+			"link": {
+				"href": "/contatti",
+				"alt": "Contattaci per saperne di più",
+				"text": "Contattaci per saperne di più"
+			},
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/z6p8jeemhzd3pppqe78m.webp",
+				"alt": "",
+				"height": "",
+				"width": "",
+				"title": ""
+			}
+		},
+		"studioSection": {
+			"title": "Lo studio",
+			"image": null,
+			"mediaText": [
+				{
+					"id": 1,
+					"addClass": "",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/r3lunaqfqowhamr6437g.webp",
+						"alt": "",
+						"height": "440",
+						"width": "720",
+						"title": ""
+					},
+					"title": "Il nostro rifugio nel cuore della città",
+					"paragraphs": [
+						{
+							"id": 1,
+							"text": "Inkae Tattoo nasce nell’ottobre 2020 da un’idea di Tommy Grossi, che trasforma la sua passione per il disegno in un’attività, realizzando un piccolo gioiello di 50mq incastonato tra le calli veneziane."
+						},
+						{
+							"id": 2,
+							"text": "Un ambiente vintage dai colori caldi, il grammofono che suona, la cordialità dello staff, rendono piacevole anche solo la permanenza in sala d’attesa."
+						}
+					]
+				},
+				{
+					"id": 2,
+					"addClass": "",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/home/ykw1ok38e1yz9hvkmalt.webp",
+						"alt": "",
+						"height": "440",
+						"width": "720",
+						"title": ""
+					},
+					"title": "Comfort e pulizia",
+					"paragraphs": [
+						{
+							"id": 1,
+							"text": "Nello studio non mancano cortesia e professionalità, ma soprattutto tutte le condizioni igienico sanitarie necessarie."
+						},
+						{
+							"id": 2,
+							"text": "Il nostro staff è autorizzato USSL per l’esercizio e rispetta tutte le norme previste dalla legge regionale “Disposizioni relative alle attività di tatuaggio e piercing” n. 11 del 2013."
+						}
+					]
+				},
+				{
+					"id": 3,
+					"addClass": "",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/home/arefyiichti0ynhtyooi.webp",
+						"alt": "",
+						"height": "440",
+						"width": "720",
+						"title": ""
+					},
+					"title": "Prodotti di qualità",
+					"paragraphs": [
+						{
+							"id": 1,
+							"text": "Vengono utilizzati esclusivamente aghi sterili e monouso scartati esclusivamente davanti al cliente."
+						},
+						{
+							"id": 2,
+							"text": "I colori sono atossici, sterili e certificati."
+						}
+					]
+				}
+			]
+		},
+		"crewSection": {
+			"title": "La nostra crew",
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
+				"alt": "",
+				"height": "891",
+				"width": "1440",
+				"title": ""
+			},
+			"artists": [
+				{
+					"id": "1",
+					"title": "Tommy Grossi",
+					"description": "Traditional tattoo",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				},
+				{
+					"id": "2",
+					"title": "Aura Negativa",
+					"description": "Blackwork",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				},
+				{
+					"id": "3",
+					"title": "Tobias Paties",
+					"description": "Traditional tattoo",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				}
+			]
+		},
+		"worksSection": {
+			"title": "I nostri lavori",
+			"images": [
+				{
+					"id": 1,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/n47s6t5ysckvwkqzpmwj.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Aura Negativa",
+					"title": "Testo che descrive il tatuaggio 1"
+				},
+				{
+					"id": 2,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/t55bk2l7tamu4gixfdod.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Aura Negativa",
+					"title": "Testo che descrive il tatuaggio 2"
+				},
+				{
+					"id": 3,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/yeeo5jbr1itirctkzr0i.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Aura Negativa",
+					"title": "Testo che descrive il tatuaggio 3"
+				},
+				{
+					"id": 4,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/tommy-grossi/tattoos/wrlsg1jc6pakzholk8wn.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 4"
+				},
+				{
+					"id": 5,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 5"
+				},
+				{
+					"id": 6,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Testo che descrive il tatuaggio 6"
+				}
+			]
+		},
+		"piercingSection": {
+			"title": "Piercing",
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
+				"alt": "",
+				"height": "500",
+				"width": "1440",
+				"title": ""
+			},
+			"description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
+			"link": {
+				"href": "/piercing",
+				"alt": "Scopri i nostri servizi",
+				"text": "Scopri i nostri servizi"
+			}
+		},
+		"contactSection": {
+			"title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
+			"image": null,
+			"description": null,
+			"link": {
+				"href": "/contatti",
+				"alt": "Contattaci per saperne di più",
+				"text": "Contattaci per saperne di più"
+			}
+		}
+	}
 }
