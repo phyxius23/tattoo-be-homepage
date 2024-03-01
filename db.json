@@ -112,18 +112,6 @@
 				},
 				{
 					"id": "2",
-					"title": "Aura Negativa",
-					"description": "Blackwork",
-					"image": {
-						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
-						"alt": "Aura Negativa mentre lavora",
-						"height": "270",
-						"width": "425",
-						"title": ""
-					}
-				},
-				{
-					"id": "3",
 					"title": "Tobia Baser",
 					"description": "Tradizionale Americano, Giapponese e Fine Line",
 					"image": {
@@ -141,19 +129,19 @@
 			"images": [
 				{
 					"id": 1,
-					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/n47s6t5ysckvwkqzpmwj.webp",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
 					"height": "700",
 					"width": "525",
-					"alt": "Tattoo by Aura Negativa",
-					"title": "Testo che descrive il tatuaggio 1"
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Tattoo by Tommy Grossi"
 				},
 				{
 					"id": 2,
-					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/t55bk2l7tamu4gixfdod.webp",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
 					"height": "700",
 					"width": "525",
-					"alt": "Tattoo by Aura Negativa",
-					"title": "Testo che descrive il tatuaggio 2"
+					"alt": "Tattoo by Tommy Grossi",
+					"title": "Tattoo by Tommy Grossi"
 				},
 				{
 					"id": 3,
@@ -161,7 +149,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 3"
+					"title": "Tattoo by Tobia Baser"
 				},
 				{
 					"id": 4,
@@ -169,23 +157,23 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 4"
+					"title": "Tattoo by Tobia Baser"
 				},
 				{
 					"id": 5,
-					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/toasfnakhxtdkqec8tz8.webp",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/tommy-grossi/tattoos/wrlsg1jc6pakzholk8wn.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tommy Grossi",
-					"title": "Testo che descrive il tatuaggio 5"
+					"title": "Tattoo by Tommy Grossi"
 				},
 				{
 					"id": 6,
-					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/tommy-grossi/tattoos/ssitjfe2egm8kq14dkdm.webp",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122849/inkaeTattooVenice/tobia-baser/tattoos/ckktrdumuaatbsolgyk4.webp",
 					"height": "700",
 					"width": "525",
-					"alt": "Tattoo by Tommy Grossi",
-					"title": "Testo che descrive il tatuaggio 6"
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Tattoo by Tobia Baser"
 				}
 			]
 		},
